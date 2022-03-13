@@ -234,7 +234,6 @@ webpack 在定义模块上，支持上面提到的所有模块声明方式，只
 2. 按需加载
 3. 解耦、复用、高可维护性
 
-
 ## 参考资料
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/module)
 
