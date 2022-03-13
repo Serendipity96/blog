@@ -103,6 +103,6 @@ theme: geek
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Serendipit96/Serendipit96.github.io
+  repo: https://github.com/Serendipity96/Serendipity96.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
