@@ -2,8 +2,10 @@
 title: Firefox Manifest V3：进展及下一步计划
 tags:
 - extension
+- 翻译
 categories:
 - extension
+- 翻译
 # toc: false
 date: 2022-05-31 23:27
 ---

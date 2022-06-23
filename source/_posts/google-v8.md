@@ -2,8 +2,10 @@
 title: V8 是如何执行 JavaScript 代码的呢？
 tags:
 - V8
+- 学习笔记
 categories:
 - V8
+- 学习笔记
 # toc: false
 date: 2022-04-10 12:37
 ---
